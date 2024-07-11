@@ -3,7 +3,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3 and JavaScript.
 
-<a href="#" target="_blank">**Visit Now** 🚀</a>
+<a href="https://raunaksharma.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -13,8 +13,8 @@ Portfolio website built using HTML5, CSS3 and JavaScript.
 
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+![mockup720](![image](https://github.com/Raunak2424/Portfolio/assets/131706070/997ddc62-68c7-434d-8077-846b9f64d75f))
+
 
 
 <h2>📬 Contact</h2>
