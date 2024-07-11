@@ -13,7 +13,7 @@ Portfolio website built using HTML5, CSS3 and JavaScript.
 
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](![image](https://github.com/Raunak2424/Portfolio/assets/131706070/997ddc62-68c7-434d-8077-846b9f64d75f))
+![mockup720](https://github.com/Raunak2424/Portfolio/assets/131706070/93cca192-115c-4d5a-bf0d-ba9a97f0e536)
 
 
 
